@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Cyotek.Windows.Forms.FontDialog</id>
+    <version>$version$</version>
+    <title>Cyotek FontDialog</title>
+    <authors>Cyotek</authors>
+    <owners>Cyotek</owners>
+    <licenseUrl>https://raw.githubusercontent.com/cyotek/Cyotek.Windows.Forms.FontDialog/master/LICENSE.txt</licenseUrl>
+    <projectUrl>https://github.com/cyotek/Cyotek.Windows.Forms.FontDialog</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/cyotek/Cyotek.Windows.Forms.FontDialog/master/resources/icon-32.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>
+      A drop in replacement for System.Windows.Forms.FontDialog, without the crash when selecting non-TrueType fonts
+    </description>
+    <summary>
+      A drop in replacement for System.Windows.Forms.FontDialog, without the crash when selecting non-TrueType fonts
+    </summary>
+    <releaseNotes />
+    <copyright>Copyright 2015 Cyotek Ltd.</copyright>
+    <language>en-GB</language>
+    <tags>fontdialog choosefont font cyotek</tags>
+  </metadata>
+</package>

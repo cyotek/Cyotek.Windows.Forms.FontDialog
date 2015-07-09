@@ -1,0 +1,9 @@
+*.suo
+*.user
+*.ndproj
+
+packages
+releases
+bin
+obj
+NDependOut
