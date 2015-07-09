@@ -20,10 +20,16 @@ This version uses the native Win32 dialog via `ChooseFont` - the hook procedure 
 
 There's also a fully managed solution buried in one of the branches of this repository. It is incomplete, mainly because I wasn't able to determine which fonts are hidden by settings, and how to combine families with non standard styles such as Light. It's still interesting in its own right, showing how to use `EnumFontFamiliesEx` etc, but for now it is on hold as a work in progress.
 
+## NuGet Package
+
+A NuGet package [is available](https://www.nuget.org/packages/Cyotek.Windows.Forms.FontDialog/1.0.0).
+
+> PM> Install-Package Cyotek.Windows.Forms.FontDialog
+
 ## License
 
-The `ImageBox` control is licensed under the MIT License. See `license.txt` for the full text.
+The `FontDialog` component is licensed under the MIT License. See `LICENSE.txt` for the full text.
 
 ## Further Reading
 
-For more information on this control, see the [articles tagged with imagebox](http://cyotek.com/blog/tag/fontdialog) at cyotek.com.
+For more information on this control, see the [articles tagged with fontdialog](http://cyotek.com/blog/tag/fontdialog) at cyotek.com.
