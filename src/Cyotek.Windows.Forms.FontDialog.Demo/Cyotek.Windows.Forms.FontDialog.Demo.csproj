@@ -39,12 +39,8 @@
       <HintPath>..\..\packages\CommonMark.NET.0.9.1\lib\net35-client\CommonMark.dll</HintPath>
       <Private>True</Private>
     </Reference>
-    <Reference Include="Cyotek.Windows.Forms.ImageBox, Version=1.1.5.1, Culture=neutral, PublicKeyToken=58daa28b0b2de221, processorArchitecture=MSIL">
-      <HintPath>..\..\packages\CyotekImageBox.1.1.5.1\lib\net20\Cyotek.Windows.Forms.ImageBox.dll</HintPath>
-      <Private>True</Private>
-    </Reference>
-    <Reference Include="HtmlRenderer, Version=1.5.0.5, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\..\packages\HtmlRenderer.Core.1.5.0.5\lib\net35-client\HtmlRenderer.dll</HintPath>
+    <Reference Include="HtmlRenderer, Version=1.5.0.6, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\HtmlRenderer.Core.1.5.0.6\lib\net35-client\HtmlRenderer.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="HtmlRenderer.WinForms, Version=1.5.0.6, Culture=neutral, processorArchitecture=MSIL">
@@ -53,13 +49,8 @@
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
-    <Reference Include="System.Xml.Linq" />
-    <Reference Include="System.Data.DataSetExtensions" />
-    <Reference Include="System.Data" />
-    <Reference Include="System.Deployment" />
     <Reference Include="System.Drawing" />
     <Reference Include="System.Windows.Forms" />
-    <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AboutDialog.cs">

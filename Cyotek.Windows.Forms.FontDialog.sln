@@ -1,23 +1,17 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.31101.0
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cyotek.Windows.Forms.FontDialog.Demo", "src\Cyotek.Windows.Forms.FontDialog.Demo\Cyotek.Windows.Forms.FontDialog.Demo.csproj", "{05DD1A2A-9714-4C73-9A18-0B38A3CBB1EF}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cyotek.Windows.Forms.FontDialog", "src\Cyotek.Windows.Forms.FontDialog\Cyotek.Windows.Forms.FontDialog.csproj", "{CA50CA44-04D9-41BE-9BF7-E61E034B997D}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{F7E69A7E-DDFF-4A91-B1F4-D4A55619D282}"
-	ProjectSection(SolutionItems) = preProject
-		.nuget\NuGet.Config = .nuget\NuGet.Config
-		.nuget\NuGet.exe = .nuget\NuGet.exe
-		.nuget\NuGet.targets = .nuget\NuGet.targets
-	EndProjectSection
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{90232E9C-F326-4F7E-8782-6848920842BA}"
 	ProjectSection(SolutionItems) = preProject
 		CHANGELOG.md = CHANGELOG.md
 		LICENSE.txt = LICENSE.txt
+		push.cmd = push.cmd
 		README.md = README.md
 	EndProjectSection
 EndProject

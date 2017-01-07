@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
   <metadata>
-    <id>Cyotek.Windows.Forms.FontDialog</id>
+    <id>$id$</id>
     <version>$version$</version>
     <title>Cyotek FontDialog</title>
     <authors>Cyotek</authors>
@@ -17,7 +17,7 @@
       A drop in replacement for System.Windows.Forms.FontDialog, without the crash when selecting non-TrueType fonts
     </summary>
     <releaseNotes />
-    <copyright>Copyright 2015 Cyotek Ltd.</copyright>
+    <copyright>$copyright$</copyright>
     <language>en-GB</language>
     <tags>fontdialog choosefont font cyotek</tags>
   </metadata>
